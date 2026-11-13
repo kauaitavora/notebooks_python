@@ -3,4 +3,4 @@
 Os notebooks neste repositório são criados utilizando o marimo.
 Os seguintes projetos estão disponíveis e podem ser acessados em:
 
-[Simulação do sistema solar][https://molab.marimo.io/github/kauaitavora/notebooks_python/blob/932822c6e0c441b2bf1e4a9901ef9a5616bfac79/notebook_grupo9.py]
+* Simulação do sistema solar [![Open in molab](https://marimo.io/molab-shield.svg)](https://github.com/kauaitavora/notebooks_python/blob/main/notebook_grupo9.py/wasm)
