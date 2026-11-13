@@ -41,7 +41,7 @@ def _(mo):
     O sistema modelado é composto por dois corpos: O Sol, de massa $Ms$, e a Terra, de massa $Me$.
 
     <div align="center">
-    <img src="public/sistema_terra_sol.png" width="350"/>
+    <img src="https://github.com/kauaitavora/notebooks_python/blob/main/public/sistema_terra_sol.png?raw=true" width="350"/>
     </div>
 
     O modelo adota as seguintes hipóteses:
@@ -68,7 +68,7 @@ def _(mo):
     Decompondo a força gravitacional em componente horizontal e vertical:
 
     <div align="center">
-    <img src="public/sun_earth_Fg.png" width="450"/>
+    <img src="https://github.com/kauaitavora/notebooks_python/blob/main/public/sun_earth_Fg.png?raw=true" width="450"/>
     </div>
 
     Substituindo a expressão da gravitação:
