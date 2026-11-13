@@ -1,6 +1,6 @@
 *
 !.gitignore
-!notebook_grupo9.py
+!notebook_grupo9.*
 !README.md
 !public/
 !public/**
