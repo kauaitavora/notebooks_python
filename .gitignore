@@ -1,6 +1,7 @@
 *
 !.gitignore
 !notebook_grupo9.py
+!__marimo__/
 !__marimo__/session/
 !__marimo__/session/notebook_grupo9.py.json
 !README.md
